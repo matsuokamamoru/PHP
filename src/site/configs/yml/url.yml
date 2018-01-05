@@ -1,0 +1,32 @@
+defalut:
+  defalut:
+    - param1
+    - param2
+    - param3
+
+top:
+  index:
+    - page_no
+  load:
+    - page_no
+
+detail:
+  index:
+    - content_id
+  new:
+    - content_id
+
+search:
+  genre:
+    - genre_id
+    - page_no
+  loadGenre:
+    - genre_id
+    - page_no
+
+ranking:
+  index:
+    - page_no
+  load:
+    - page_no
+

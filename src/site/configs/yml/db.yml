@@ -1,0 +1,7 @@
+type:mysql
+host:localhost
+dbname:projectx
+user:root
+password:sDcX2vW6
+port:3306
+charset:utf8
